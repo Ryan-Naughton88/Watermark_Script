@@ -1,6 +1,3 @@
-Certainly! Here's the documentation for your provided code in Markdown language:
-
-```markdown
 # PDF Watermarking Script Documentation
 
 ## Overview
